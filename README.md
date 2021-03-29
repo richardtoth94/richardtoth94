@@ -2,9 +2,7 @@
 
 #### I'm a Software Developer in the North East of England.
 
-##### BIO
-
-- 🏢 I'm currently working at **W8R Ltd / Codeplayground.io**
+#### I'm currently working at **W8R Ltd / Codeplayground.io**
 
 ## ⚡ Technologies
 
@@ -19,4 +17,4 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtoth94&theme=blue-green)
