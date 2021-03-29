@@ -17,4 +17,4 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtoth94&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={richardtoth94}&theme=blue-green)
