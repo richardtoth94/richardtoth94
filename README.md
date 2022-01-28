@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer in the North East of England.
+#### I'm a Software Developer originally based in the North East of England, currently living in Dubai, UAE.
 
 #### I'm currently working at **W8R Ltd / Codeplayground.io**
 
